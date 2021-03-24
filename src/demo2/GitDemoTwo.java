@@ -10,6 +10,14 @@ public class GitDemoTwo {
 		System.out.println(" hola colombian!!!");
 		
 		System.out.println("finally");
+		
+		System.out.println("clone is weird");
+		
+		System.out.println("finally");
+		
+		System.out.println("finally");
+		
+		System.out.println("finally");
 
 	}
 
