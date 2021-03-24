@@ -6,10 +6,9 @@ public class TeamOneDemo {
 		System.out.println("Team One ");
 		
 		System.out.println("What's Up Team");
-	}
-	
-	public static void todo() {
-		System.out.println("Follow the process");
+		
+		System.out.println("Faisal");
+		System.out.println("Faisal2");
 	}
 
 }
