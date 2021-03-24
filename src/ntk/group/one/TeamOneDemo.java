@@ -7,5 +7,9 @@ public class TeamOneDemo {
 		
 		System.out.println("What's Up Team");
 	}
+	
+	public static void todo() {
+		System.out.println("Follow the process");
+	}
 
 }
