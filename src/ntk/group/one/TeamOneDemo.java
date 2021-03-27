@@ -21,7 +21,7 @@ public class TeamOneDemo {
 		
 	}
 	
-	public static int[] getArray(int a, int b ) {
+	public static int getArray(int a, int b ) {
 		int result;
 		
 		if(a == b) {

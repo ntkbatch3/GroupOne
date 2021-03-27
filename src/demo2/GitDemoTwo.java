@@ -9,7 +9,7 @@ public class GitDemoTwo {
 		
 		System.out.println(" hola colombian!!!");
 		
-<<<<<<< HEAD
+
 		System.out.println("finally");
 		
 		System.out.println("clone is weird");
@@ -19,16 +19,22 @@ public class GitDemoTwo {
 		System.out.println("finally");
 		
 		System.out.println("finally");
-=======
+
 		System.out.println("Best group in the class");
 		
 		
 		
->>>>>>> branch 'master' of https://github.com/ntkbatch3/GroupOne.git
+//>>>>>>> branch 'master' of https://github.com/ntkbatch3/GroupOne.git
 
 		
 		System.out.println("finally");
-
+ 
 	}
+	
+	
+	public static void YouCray() {
+		System.out.println("You guys are craazzzyyyy");
+	}
+	
 
 }
