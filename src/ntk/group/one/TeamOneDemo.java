@@ -18,21 +18,8 @@ public class TeamOneDemo {
 		
 		
 		System.out.println("buuuu22222222");
-		
+		System.out.println("practice on GitHub");
+
 	}
-	
-	public static int getArray(int a, int b ) {
-		int result;
-		
-		if(a == b) {
-			result = a+b;
-		}else {
-			result = a*b;
-		}
-	
-	return result; // how do we fix this
-	}
-	
-	
 
 }
